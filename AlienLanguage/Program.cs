@@ -12,7 +12,7 @@ namespace AlienLanguage
     {
         static void Main(string[] args)
         {
-            string input = "C:/Users/nisho/source/repos/AlienLanguage/file.txt";
+            string input = "C:/Users/nisho/source/repos/NewAlien/AlienLanguage/file.txt";
             Translator translator = new Translator();
 
             translator.ReadFile(input);
